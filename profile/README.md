@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <img src="logo-dev (1).png" alt="">
+  <img src="logo-dev.png" alt="">
   <h1>techstud.dev</h1>
 </div>
 
