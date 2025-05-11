@@ -1,3 +1,11 @@
+<div align="center">
+  <br>
+  <img src="logo-dev.png" alt="">
+  <h1>techstud.dev</h1>
+</div>
+
+[![ru readme](Yandex_Translate_icon.svg)](https://github.com/techstud-dev/.github/blob/main/profile/README.md)
+
 Schedule University - экосистема сервисов для управления расписанием вуза.
 
 ### 📖 О проекте
