@@ -4,7 +4,7 @@
   <h1>techstud.dev</h1>
 </div>
 
-[![eng readme](Yandex_Translate_icon.svg)]()
+[![eng readme](Yandex_Translate_icon.svg)](https://github.com/techstud-dev/.github/blob/main/profile/README-RU.md)
 
 Schedule University - an ecosystem of services for universitet schedule management. 
 
