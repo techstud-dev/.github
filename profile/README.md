@@ -3,6 +3,7 @@
   <img src="logo-dev (1).png" alt="">
   <h1>techstud.dev</h1>
 </div>
+
 [![eng readme](Yandex_Translate_icon.svg)]()
 
 Schedule University - an ecosystem of services for universitet schedule management. 
