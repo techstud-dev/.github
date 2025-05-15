@@ -29,4 +29,4 @@ Schedule University - это цифровая экосистема, призва
 - *[@norestwork](https://github.com/norestwork)*
   
 ### 👩‍💼 Лицензия
-MIT
+[MIT](LICENSE)
