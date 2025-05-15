@@ -21,11 +21,12 @@ Schedule University - это цифровая экосистема, призва
 
 ### 👍 Наша команда
 Наша команда пишет для вас сервис «Расписание университетов»:
-@Funt1koff
-@EldarKhalilov
-@MrNikaMilon
-@artem-xopc
-@runnaf
-@norestwork
-👩‍💼 Лицензия
-MITПока в работе 🚧.
+- *[@Funt1koff](https://github.com/Funt1koff)* 
+- *[@EldarKhalilov](https://github.com/EldarKhalilov)* 
+- *[@MrNikaMilon](https://github.com/MrNikaMilon)* 
+- *[@artem-xopc](https://github.com/artem-xopc)* 
+- *[@runnaf](https://github.com/runnaf)* 
+- *[@norestwork](https://github.com/norestwork)*
+  
+### 👩‍💼 Лицензия
+MIT
